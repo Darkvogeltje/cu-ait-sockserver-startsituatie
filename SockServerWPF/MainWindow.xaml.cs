@@ -30,7 +30,7 @@ namespace SockServerWPF
     {
         Socket listener;
         int numberOfClients = 1;
-        bool verderdoen = true;
+        bool @continue = true;
         string activeFolder;
         string baseFolder;
 
